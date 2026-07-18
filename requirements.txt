@@ -5,4 +5,3 @@ scikit-learn>=1.5.1
 scipy>=1.13.1
 imbalanced-learn>=0.12.3
 pillow>=12.0.0
- 
